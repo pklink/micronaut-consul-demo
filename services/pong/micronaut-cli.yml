@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: net.einself.micronaut.consul.pong
+---
+testFramework: junit
+sourceLanguage: java
